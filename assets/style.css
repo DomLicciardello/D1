@@ -1,0 +1,99 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+padding-bottom: 200px;
+}
+
+.sublogo {
+    margin: auto;
+    background-color: rgb(237, 232, 207);
+    border-top: rgb(237, 214, 95) 1px solid;
+}
+
+#sublogo2 {
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    padding: 5px;
+}
+
+#sublogo2 p {
+    font-size: small;
+}
+
+#sublogo2 p span {
+    font-weight: bold;
+}
+
+main {
+    margin: auto;
+    width: 700px;
+}
+
+.logo {
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+}
+
+.title {
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.sallyvegas {
+    color: rgb(96, 96, 96);
+    text-align: center;
+}
+
+.featured {
+    border-left: rgb(248, 209, 9) 1px solid;
+}
+
+.featured p {
+    color: rgb(152, 69, 0);
+    margin: 0;
+    padding-left: 10px;
+}
+
+.featured a {
+    color: rgb(73, 127, 109);
+    margin: 0;
+    padding-left: 10px;
+}
+
+.ingredients {
+    padding-top: 50px;
+}
+
+.ingredients h2 {
+    padding-bottom: 20px;
+    border-bottom: rgb(107, 198, 210) 1px solid;
+}
+
+.ingredients li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.method h2 {
+        padding-bottom: 20px;
+        border-bottom: rgb(107, 198, 210) 1px solid;
+}
+
+#list1 {
+    font-weight: bold;
+}
+
+#list1des {
+    padding-left: 30px;
+}
+
+.method a {
+    color: rgb(73, 127, 109);
+}
